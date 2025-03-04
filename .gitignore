@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Jupyter notebooks (optional)
+*.ipynb
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore API keys and sensitive info
+.env
+
+# Ignore Streamlit & system files (optional)
+.DS_Store
+.vscode/
